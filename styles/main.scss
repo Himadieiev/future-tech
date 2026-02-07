@@ -9,6 +9,18 @@
 @use "blocks/button";
 @use "blocks/burger-button";
 @use "blocks/header";
+
 @use "blocks/badge";
 @use "blocks/soc1als";
 @use "blocks/footer";
+
+@use "blocks/metrics";
+@use "blocks/team";
+@use "blocks/advantage-card";
+@use "blocks/resources-preview";
+@use "blocks/hero";
+
+.header,
+.footer {
+  display: none !important;
+}
