@@ -20,7 +20,8 @@
 @use "blocks/resources-preview";
 @use "blocks/hero";
 
-// .header,
-// .footer {
-//   display: none !important;
-// }
+.header,
+.hero,
+.footer {
+  display: none !important;
+}
