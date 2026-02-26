@@ -2760,10 +2760,4 @@ button[aria-label]::before {
   border-bottom: var(--border);
 }
 
-.header,
-main > *:not(:last-child),
-.footer {
-  display: none !important;
-}
-
 /*# sourceMappingURL=main.css.map */
